@@ -1,0 +1,21 @@
+.container {
+    border-radius: 5%;
+    background: purple;
+    color: #fff;
+    margin: 30px 15px;
+    height: 400px;
+    width: 300px;
+}
+.container img {
+    border-radius: 50%;
+    margin: 20px 30px;
+    width: 50%;
+}
+
+.container button {
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+
+

@@ -1,0 +1,11 @@
+.navBar {
+    background: silver ;
+    margin-top: 0px;
+    width: 100%;
+    padding: 10px;
+    display: block;
+    margin-right: 0px ;
+}
+.navBar div {
+    align-items: end;
+}
